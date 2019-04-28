@@ -11,3 +11,5 @@ server:
 spring:
   application:
     name: client-1
+
+bus: testBus
