@@ -10,7 +10,7 @@ server:
   port: 8081
 spring:
   application:
-    name: client
+    name: client-1
   rabbitmq:
     addresses: 47.99.134.106:5673
 bus: testBus8
