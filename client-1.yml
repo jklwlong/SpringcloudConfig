@@ -12,4 +12,4 @@ spring:
   application:
     name: client-1
 
-bus: testBus2
+bus: testBus3
