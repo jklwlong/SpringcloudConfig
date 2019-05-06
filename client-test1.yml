@@ -12,10 +12,10 @@ spring:
   application:
     name: client-1
 bus: testBus8
-# management:
-#  context-path : /
+
 management:
   endpoints:
     web:
+      base-path: /
       exposure:
         include: hystrix.stream
